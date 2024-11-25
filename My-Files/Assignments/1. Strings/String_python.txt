@@ -1,0 +1,10 @@
+1. Write a Python program to take a user input string and print its length using a built-in method.
+2. Combine two strings provided by the user and print the result using a string method.
+3. Create a program that accepts a string input and prints it in uppercase and lowercase using string methods.
+4. Write a Python script that prompts the user for a sentence and extracts a substring from it. Display both the original sentence and the extracted substring.
+5. Develop a program that replaces a specified word in a given sentence with another word. Display the modified sentence.
+6. Take a sentence as input and split it into a list of words. Print the list using a string method.
+7. Write a Python program to input a string with leading and trailing whitespaces. Use a method to remove these whitespaces and print the cleaned string.
+8. Create a script that checks if a particular word exists in a given sentence. Use a string method for this operation.
+9. Design a program that takes a string input and counts the number of occurrences of a specific character in it using a string method.
+10. Develop a Python program that takes user inputs for name and age and uses a string method to format a sentence displaying the information.
