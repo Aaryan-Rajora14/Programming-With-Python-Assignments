@@ -1,0 +1,15 @@
+1. Write a function convert_temperature that takes a temperature in Celsius as an argument and converts it to Fahrenheit. The default value for the Celsius temperature should be 0.
+2. Define a function power_of_number that calculates the power of a given number. The default exponent should be 2.
+3. Write a function sum_integers that computes the sum of a list of integers. If no list is provided, it should return 0.
+4. Create a function reverse_string that reverses a given string. The default string should be “Hello, World!”.
+5. Create a function greet_user that takes a user’s name as an argument and prints a personalized greeting. If no name is provided, it should greet as “Hello, Guest!”.
+
+1. Write a Python function to sum all the numbers in a list.
+2. Write a Python function to multiply all the numbers in a list.
+3. Write a Python function that accepts a string and counts the number of upper and lower case letters.
+4. Write a Python program to reverse a string.
+5.  Write a Python function that takes a list and returns a new list with distinct elements.
+6.  write a function returns the highest value among 3 numbers passed as argument
+7.  write a function to display of table of given number
+8.  Write a Python function that accepts a string and counts the number of upper and lower case letters.
+9.  write a function to check given number is a prime number or not
